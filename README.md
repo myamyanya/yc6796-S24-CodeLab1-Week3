@@ -1,5 +1,11 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# A Blue Ball Bouncing around game-ish game, but with FIRE... and FileIO system!!
 
-DO NOT LEAVE IT LIKE THIS!!!
+WASD controller
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+Space bar for jumping; Hold longer to jump higher!
+
+And brand new HighScore system!!
+
+Enjoy! Brave firefighter :]
+
+Or not :D
