@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Floor
   - Fire
+  - EndSceneText
   layers:
   - Default
   - TransparentFX

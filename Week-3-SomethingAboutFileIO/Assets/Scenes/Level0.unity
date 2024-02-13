@@ -1780,6 +1780,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3749400101565388021, guid: 610f41e95e7a30f4e9964220b00e45dc, type: 3}
+      propertyPath: m_CullTransparentMesh
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5422415920514571891, guid: 610f41e95e7a30f4e9964220b00e45dc, type: 3}
       propertyPath: m_SizeDelta.x
       value: 300
@@ -1791,6 +1795,14 @@ PrefabInstance:
     - target: {fileID: 7321382607885340279, guid: 610f41e95e7a30f4e9964220b00e45dc, type: 3}
       propertyPath: m_text
       value: "Score: \n\\nThe firefighting champion put out X fires"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8478269599751371758, guid: 610f41e95e7a30f4e9964220b00e45dc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8549492128898887969, guid: 610f41e95e7a30f4e9964220b00e45dc, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8576391430031802316, guid: 610f41e95e7a30f4e9964220b00e45dc, type: 3}
       propertyPath: m_Name
