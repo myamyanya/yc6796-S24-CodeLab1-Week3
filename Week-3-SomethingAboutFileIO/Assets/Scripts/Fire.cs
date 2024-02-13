@@ -28,7 +28,7 @@ public class Fire : MonoBehaviour
         {
             Debug.Log("Hit by a player!");
 
-            GameManager.instance.score++;
+            GameManager.instance.Score++;
 
             if (floors.Length > 0)
             {
